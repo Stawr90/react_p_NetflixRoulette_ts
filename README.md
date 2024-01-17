@@ -1,7 +1,7 @@
-(P - project) REACT / App Netflix Roulette
+# (P - project) REACT / App Netflix Roulette
 
-Created - login form, registration form, search form, movie list, info card, sort-toggle cards
-Used - TypeScript, React, Redux Toolkit, React Final Form, Webpack, Jest, React Testing Library
+# Created - login form, registration form, search form, movie list, info card, sort-toggle cards
+# Used - TypeScript, React, Redux Toolkit, React Final Form, Webpack, Jest, React Testing Library
 
 <img src="MarvelComics.png">
 
