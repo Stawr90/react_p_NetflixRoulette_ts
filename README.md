@@ -4,10 +4,14 @@ Created - login form, registration form, search form, movie list, info card, sor
 Used - TypeScript, React, Redux Toolkit, React Final Form, Webpack, Jest, React Testing Library
 
 <div>
+  ## Info card
   <img src="netflixroulette_info_card.png">
-<img src="netflixroulette_main.png">
-<img src="netflixroulette_registration.png">
-<img src="netflixroulette_login.png">
+  ## Main page
+  <img src="netflixroulette_main.png">
+  ## Registration form
+  <img src="netflixroulette_registration.png">
+  ## Login form
+  <img src="netflixroulette_login.png">
 </div>
 
 
