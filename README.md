@@ -28,6 +28,12 @@ npm run test
   
 ## Registration form
   <img src="netflixroulette_registration.png">
+
+## Main page
+  <img src="netflixroulette_main.png">
+  
+## Info card
+  <img src="netflixroulette_info_card.png">
   
 
   
