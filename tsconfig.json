@@ -1,0 +1,30 @@
+{
+    "compilerOptions": {
+        "jsx": "react", 
+        "target": "es2016",
+        "module": "commonjs",
+        "baseUrl": "src/", 
+        "noEmitOnError": true, 
+        "esModuleInterop": true,
+        "outDir": "./dist/", 
+        "removeComments": true, 
+        "allowJs": true,
+        "moduleResolution": "node",
+        "skipLibCheck": true,
+        "allowSyntheticDefaultImports": true,
+        "forceConsistentCasingInFileNames": true,
+        "noFallthroughCasesInSwitch": true,
+        "resolveJsonModule": true,
+        "isolatedModules": true,
+        "noEmit": false
+    },
+    "files": [
+        "./src/index.tsx" // Entry point
+    ],
+    "exclude": [
+        "node_modules"
+    ],
+    "include": [
+        "src"
+    ]
+}

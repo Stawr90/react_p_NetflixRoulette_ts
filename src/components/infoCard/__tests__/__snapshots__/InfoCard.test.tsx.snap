@@ -1,0 +1,168 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InfoCard Component must accept correct data 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="info"
+        data-testid="info-card-page"
+      >
+        <div
+          class="info__img"
+        >
+          <img
+            alt="One of us"
+            src="https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/2f48ce0d-8590-4ac9-b130-8073f34f5c83/300x450"
+          />
+        </div>
+        <div
+          class="info__text"
+        >
+          <div
+            class="info__title"
+          >
+            One of us
+          </div>
+          <div
+            class="info__char"
+          >
+            <span
+              class="info__char-year"
+            >
+              2017
+            </span>
+            <span
+              class="info__char-time"
+            >
+              119
+               min
+            </span>
+          </div>
+          <div
+            class="info__descr"
+          >
+            The film follows the lives of three ex-members of Brooklyn is Hasidic community: Ari Hershkowitz, Luzer Twersky, and Etty Ausch. Each struggles with being ostracized from their former community and families, while revealing how they came to leave.
+          </div>
+          <a
+            data-testid="main-link"
+            href="/"
+          >
+            <button
+              class="info__btn"
+            >
+              Films
+            </button>
+          </a>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="info"
+      data-testid="info-card-page"
+    >
+      <div
+        class="info__img"
+      >
+        <img
+          alt="One of us"
+          src="https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/2f48ce0d-8590-4ac9-b130-8073f34f5c83/300x450"
+        />
+      </div>
+      <div
+        class="info__text"
+      >
+        <div
+          class="info__title"
+        >
+          One of us
+        </div>
+        <div
+          class="info__char"
+        >
+          <span
+            class="info__char-year"
+          >
+            2017
+          </span>
+          <span
+            class="info__char-time"
+          >
+            119
+             min
+          </span>
+        </div>
+        <div
+          class="info__descr"
+        >
+          The film follows the lives of three ex-members of Brooklyn is Hasidic community: Ari Hershkowitz, Luzer Twersky, and Etty Ausch. Each struggles with being ostracized from their former community and families, while revealing how they came to leave.
+        </div>
+        <a
+          data-testid="main-link"
+          href="/"
+        >
+          <button
+            class="info__btn"
+          >
+            Films
+          </button>
+        </a>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

@@ -1,0 +1,80 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "img": "https://i.pinimg.com/564x/4c/fd/d0/4cfdd0f9d131a56ed5280d213fd33a47.jpg",
+      "title": "Pele",
+      "genre": "Documentary",
+      "date": 2021,
+      "timer": 141,
+      "descr": "Looks back at the extraordinary 12-year period in which Pelé, the only man to win three World Cup titles, went from young superstar in 1958 to national hero in 1970; a radical yet turbulent era in Brazil is history."
+    },
+    {
+      "id": 2,
+      "img": "https://i.pinimg.com/736x/bb/06/83/bb0683bca41055875a456851f6d99422.jpg",
+      "title": "Platform",
+      "genre": "Fantasy & Thriller & Drama",
+      "date": 2019,
+      "timer": 157,
+      "descr": "A vertical prison with one cell per level. Two people per cell. Only one food platform and two minutes per day to feed. An endless nightmare trapped in The Hole."
+    },
+    {
+      "id": 3,
+      "img": "https://i.pinimg.com/564x/e7/ee/67/e7ee67dd19556aa9027a4205aaf89585.jpg",
+      "title": "Irishman",
+      "genre": "Crime & Drama & Biography",
+      "date": 2019,
+      "timer": 138,
+      "descr": "In the 1950s, truck driver Frank Sheeran gets involved with Russell Bufalino and his Pennsylvania crime family. As Sheeran climbs the ranks to become a top hit man, he also goes to work for Jimmy Hoffa - a powerful Teamster tied to organized crime."
+    },
+    {
+      "id": 4,
+      "img": "https://i.pinimg.com/564x/78/d2/7f/78d27fca6053f9fd60afe74b115a8e65.jpg",
+      "title": "White Fang",
+      "genre": "Cartoon & Drama & Adventure",
+      "date": 2018,
+      "timer": 112,
+      "descr": "White Fang is a 1991 American Northern period adventure drama film directed by Randal Kleiser, starring Ethan Hawke, Klaus Maria Brandauer and Seymour Cassel. Based on Jack London is 1906 novel White Fang, it tells the story of the friendship between a young Klondike gold prospector and a wolfdog."
+    },
+    {
+      "id": 5,
+      "img": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/2f48ce0d-8590-4ac9-b130-8073f34f5c83/300x450",
+      "title": "One of us",
+      "genre": "Documentary",
+      "date": 2017,
+      "timer": 119,
+      "descr": "The film follows the lives of three ex-members of Brooklyn is Hasidic community: Ari Hershkowitz, Luzer Twersky, and Etty Ausch. Each struggles with being ostracized from their former community and families, while revealing how they came to leave."
+    },
+    {
+      "id": 6,
+      "img": "https://1gai.ru/uploads/posts/2022-07/1658398219_5.jpg",
+      "title": "Break into the NBA",
+      "genre": "Sports & Comedy & Drama",
+      "date": 2022,
+      "timer": 105,
+      "descr": "A basketball scout discovers a phenomenal street ball player while in Spain and sees the prospect as his opportunity to get back into the NBA."
+    },
+    {
+      "id": 7,
+      "img": "https://i.pinimg.com/564x/8a/63/43/8a634336c0c6dc958b5357360b0cef5f.jpg",
+      "title": "Marmaduke",
+      "genre": "Cartoon & Comedy & Adventure",
+      "date": 2022,
+      "timer": 128,
+      "descr": "Marmaduke is an American-Canadian-Hong Kong-South Korean-British computer-animated movie released on Netflix in 2022, based on the daily comic strip of the same name, and is the second movie adaptation of Marmaduke after the 2010 live-action film, also based on the comic of the same name."
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "username": "IGOR90",
+    "email": "stawr.90@mail.ru",
+    "password": "12345Stawr",
+    "confirmPass": "12345Stawr"
+  }
+}
